@@ -37,7 +37,7 @@ The objective is to practice data definition language (DDL), normalization techn
 
 ## 🧾 SQL Script
 
-The `schema.sql` file contains all necessary DDL commands to:
+The `mysql create database LibraryDB.sql` file contains all necessary DDL commands to:
 - Create the database `LibraryDB`
 - Define tables with appropriate data types
 - Add primary and foreign key constraints
